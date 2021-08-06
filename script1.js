@@ -1,6 +1,6 @@
-var foo = function () {
+var bar = function () {
     console.log('sssssssssssssssssssssss')
   }
   
-export default foo
+export default bar
   
