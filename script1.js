@@ -1,5 +1,5 @@
 var foo = function () {
-  console.log('sssssssssssssssssssssss')
+  console.log('AAAAAAAAAAAAAAAAAAA')
 }
 
 export default foo
