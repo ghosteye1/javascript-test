@@ -1,6 +1,5 @@
-var bar = function () {
-    console.log('sssssssssssssssssssssss')
-  }
-  
-export default bar
-  
+var foo = function () {
+  console.log('sssssssssssssssssssssss')
+}
+
+export default foo
